@@ -1,0 +1,16 @@
+
+<web-app>
+
+    <!-- Welcome file (default page when site loads) -->
+    <welcome-file-list>
+        <welcome-file>Home.jsp</welcome-file>
+    </welcome-file-list>
+
+    <!-- Session timeout (in minutes) -->
+    <session-config>
+        <session-timeout>30</session-timeout>
+    </session-config>
+
+
+   
+</web-app>
